@@ -1,0 +1,43 @@
+.content {
+    width: 100px;
+    height: 100px;
+    background-color: #f00ae4;
+    border: 2px solid black;
+    border-radius: 10px;
+    position: absolute;
+  }
+
+  #container{
+      height: 600px;
+      border-radius: 10px;
+      border: 1px solid black;
+      margin: 10px ;
+  }
+
+#header{
+    text-align: center;
+    border: 1px solid rebeccapurple;
+    padding: 20px;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: royalblue;
+    color: seashell;
+    margin: 10px;
+}
+
+#btn1{
+    padding: 15px;
+    width: 150px;
+    background-color: #5bf032;
+    border-radius: 10px;
+    margin-left: 40%;
+}
+
+#btn2{
+    padding: 15px;
+    width: 150px;
+    background-color:red;
+    border-radius: 10px;
+}
